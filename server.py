@@ -2,7 +2,7 @@
 """
 oCreated on Sat May 12 20:05:39 2012
 
-@author: Administrator
+@author: Peter Gonda, Vojtech Rinik
 """
 
 # junk = "is are the in of into from when where why what i he she we has a was me that this then than they your once had themselves there them to were through you do with every have and by for but all over my very times went behind to how take and out lot more often together ".split(" ")
